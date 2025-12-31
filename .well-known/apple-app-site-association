@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "R49R583W8Q.com.javi.TUSApp.Clip",
+                "paths": [ "/stop", "/stop/*" ]
+            },
+            {
+                "appID": "R49R583W8Q.com.javi.TUSApp",
+                "paths": [ "/stop", "/stop/*" ]
+            }
+        ]
+    }
+}
